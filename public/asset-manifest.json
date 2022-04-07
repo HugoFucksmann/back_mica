@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.205f6790.css",
-    "main.js": "/static/js/main.9861333b.js",
+    "main.css": "/static/css/main.4eafd17b.css",
+    "main.js": "/static/js/main.eb2395c3.js",
     "static/js/787.c797ab6c.chunk.js": "/static/js/787.c797ab6c.chunk.js",
     "static/media/fondoAnimado.gif": "/static/media/fondoAnimado.e7636106fe8673cbb953.gif",
     "static/media/fondoTarjeta.gif": "/static/media/fondoTarjeta.60283edf5c36d53b08d1.gif",
@@ -9,12 +9,12 @@
     "service-worker.js": "/service-worker.js",
     "static/media/cerebro-04.svg": "/static/media/cerebro-04.bd860bd88d4bbdffc255d2ef0c967925.svg",
     "index.html": "/index.html",
-    "main.205f6790.css.map": "/static/css/main.205f6790.css.map",
-    "main.9861333b.js.map": "/static/js/main.9861333b.js.map",
+    "main.4eafd17b.css.map": "/static/css/main.4eafd17b.css.map",
+    "main.eb2395c3.js.map": "/static/js/main.eb2395c3.js.map",
     "787.c797ab6c.chunk.js.map": "/static/js/787.c797ab6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.205f6790.css",
-    "static/js/main.9861333b.js"
+    "static/css/main.4eafd17b.css",
+    "static/js/main.eb2395c3.js"
   ]
 }
