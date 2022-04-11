@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.113a7f26.css",
-    "main.js": "/static/js/main.c1c7a208.js",
+    "main.js": "/static/js/main.876ea16b.js",
     "static/js/787.c797ab6c.chunk.js": "/static/js/787.c797ab6c.chunk.js",
     "static/media/fondoTarjeta.gif": "/static/media/fondoTarjeta.60283edf5c36d53b08d1.gif",
     "static/media/fondoAnimado.gif": "/static/media/fondoAnimado.14ec63c899593cfab061.gif",
@@ -13,11 +13,11 @@
     "static/media/cerebro-04.svg": "/static/media/cerebro-04.bd860bd88d4bbdffc255d2ef0c967925.svg",
     "index.html": "/index.html",
     "main.113a7f26.css.map": "/static/css/main.113a7f26.css.map",
-    "main.c1c7a208.js.map": "/static/js/main.c1c7a208.js.map",
+    "main.876ea16b.js.map": "/static/js/main.876ea16b.js.map",
     "787.c797ab6c.chunk.js.map": "/static/js/787.c797ab6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.113a7f26.css",
-    "static/js/main.c1c7a208.js"
+    "static/js/main.876ea16b.js"
   ]
 }
