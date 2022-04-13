@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.113a7f26.css",
-    "main.js": "/static/js/main.deb9f034.js",
+    "main.js": "/static/js/main.4fa8a193.js",
     "static/js/787.c797ab6c.chunk.js": "/static/js/787.c797ab6c.chunk.js",
     "static/media/fondoTarjeta.gif": "/static/media/fondoTarjeta.60283edf5c36d53b08d1.gif",
     "static/media/fondoAnimado.gif": "/static/media/fondoAnimado.14ec63c899593cfab061.gif",
     "static/media/logoMicaela.png": "/static/media/logoMicaela.c59f93165d007ca5ed7c.png",
     "service-worker.js": "/service-worker.js",
+    "static/media/qr_glosario.png": "/static/media/qr_glosario.62dbebd6abb6024bd223.png",
     "static/media/Emojis-04.svg": "/static/media/Emojis-04.70d9ec19f057193a4516e4112968b953.svg",
     "static/media/Emojis-08.svg": "/static/media/Emojis-08.272912633cbb14e7a58e0fa304017cd2.svg",
     "static/media/caraCorazones.svg": "/static/media/caraCorazones.948f757fd2e1fa8539356349a2f83206.svg",
@@ -23,11 +24,11 @@
     "static/media/cerebro-04.svg": "/static/media/cerebro-04.bd860bd88d4bbdffc255d2ef0c967925.svg",
     "index.html": "/index.html",
     "main.113a7f26.css.map": "/static/css/main.113a7f26.css.map",
-    "main.deb9f034.js.map": "/static/js/main.deb9f034.js.map",
+    "main.4fa8a193.js.map": "/static/js/main.4fa8a193.js.map",
     "787.c797ab6c.chunk.js.map": "/static/js/787.c797ab6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.113a7f26.css",
-    "static/js/main.deb9f034.js"
+    "static/js/main.4fa8a193.js"
   ]
 }
