@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.113a7f26.css",
-    "main.js": "/static/js/main.b6a3e3e6.js",
+    "main.js": "/static/js/main.1c329165.js",
     "static/js/787.c797ab6c.chunk.js": "/static/js/787.c797ab6c.chunk.js",
     "static/media/fondoTarjeta.gif": "/static/media/fondoTarjeta.60283edf5c36d53b08d1.gif",
     "static/media/fondoAnimado.gif": "/static/media/fondoAnimado.14ec63c899593cfab061.gif",
@@ -9,15 +9,17 @@
     "service-worker.js": "/service-worker.js",
     "static/media/Emojis-04.svg": "/static/media/Emojis-04.70d9ec19f057193a4516e4112968b953.svg",
     "static/media/Emojis-08.svg": "/static/media/Emojis-08.272912633cbb14e7a58e0fa304017cd2.svg",
+    "static/media/unlike.svg": "/static/media/unlike.fd589f4a55a8385908313a2e3d1e5bc6.svg",
+    "static/media/like.svg": "/static/media/like.765a1fe62a1b83a3a9b11031d077b739.svg",
     "static/media/Emojis-05.svg": "/static/media/Emojis-05.3a5b610b36905d3190b7d757e7a95338.svg",
     "static/media/cerebro-04.svg": "/static/media/cerebro-04.bd860bd88d4bbdffc255d2ef0c967925.svg",
     "index.html": "/index.html",
     "main.113a7f26.css.map": "/static/css/main.113a7f26.css.map",
-    "main.b6a3e3e6.js.map": "/static/js/main.b6a3e3e6.js.map",
+    "main.1c329165.js.map": "/static/js/main.1c329165.js.map",
     "787.c797ab6c.chunk.js.map": "/static/js/787.c797ab6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.113a7f26.css",
-    "static/js/main.b6a3e3e6.js"
+    "static/js/main.1c329165.js"
   ]
 }
