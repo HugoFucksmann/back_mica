@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.30dce54a.css",
-    "main.js": "/static/js/main.9ed7cb66.js",
+    "main.js": "/static/js/main.fb0aa646.js",
     "static/js/787.c797ab6c.chunk.js": "/static/js/787.c797ab6c.chunk.js",
-    "static/media/fondoAnimado.gif": "/static/media/fondoAnimado.14ec63c899593cfab061.gif",
     "static/media/tarjGameH.png": "/static/media/tarjGameH.0233eddfdf82618fb516.png",
     "static/media/tarjGameV.png": "/static/media/tarjGameV.1420f08d244bee8b16ee.png",
     "static/media/logoMicaela.png": "/static/media/logoMicaela.c59f93165d007ca5ed7c.png",
     "service-worker.js": "/service-worker.js",
     "static/media/qr_glosario.png": "/static/media/qr_glosario.62dbebd6abb6024bd223.png",
+    "static/media/logo.svg": "/static/media/logo.937255d4a888ee18d9fe094112d832bc.svg",
     "static/media/fondoconlogo.svg": "/static/media/fondoconlogo.0a5a14a0a53506a05dc8c91bfa0072df.svg",
     "static/media/Emojis-03.svg": "/static/media/Emojis-03.8524072e007a3a61a75ada816b3a3f51.svg",
     "static/media/Emojis-04.svg": "/static/media/Emojis-04.70d9ec19f057193a4516e4112968b953.svg",
@@ -28,12 +28,16 @@
     "static/media/cerebro-04.svg": "/static/media/cerebro-04.bd860bd88d4bbdffc255d2ef0c967925.svg",
     "index.html": "/index.html",
     "static/media/fondosinlogo.svg": "/static/media/fondosinlogo.6c8f315b52d71bdb36183ac1985319b1.svg",
+    "static/media/lineaClara.svg": "/static/media/lineaClara.19b39b6a395303ff7ddb54fab052e6d6.svg",
+    "static/media/lineaRoja.svg": "/static/media/lineaRoja.cbcde01269e1495a9b89af95145b48bb.svg",
+    "static/media/curvaVioleta.svg": "/static/media/curvaVioleta.5d400e5da0c007860aff4f658188d36f.svg",
+    "static/media/fondoLila.svg": "/static/media/fondoLila.5fe5368d88d93d0b2090f27eaecaddf7.svg",
     "main.30dce54a.css.map": "/static/css/main.30dce54a.css.map",
-    "main.9ed7cb66.js.map": "/static/js/main.9ed7cb66.js.map",
+    "main.fb0aa646.js.map": "/static/js/main.fb0aa646.js.map",
     "787.c797ab6c.chunk.js.map": "/static/js/787.c797ab6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30dce54a.css",
-    "static/js/main.9ed7cb66.js"
+    "static/js/main.fb0aa646.js"
   ]
 }
